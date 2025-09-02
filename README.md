@@ -1,9 +1,9 @@
 <h1 align="center">Olá, me chamo Ana Beatriz✨</h1>
 <h3 align="center">Aprendendo frontend com dedicação e criatividade, um commit de cada vez.</h3>
 
-- 🌱 Atualmente estou estudando **Wordpress, Figma e Frontend**
+- 🌱 Atualmente estou estudando **Frontend, cloud em AWS, Python e Streamlit**
 
-- 📚 Sou aluna integrante da **Comunidade Dev Completo**
+- 📚 Sou aluna integrante da **Comunidade Dev Completo** e iniciei o bootcam **Code Girls 2025** do Satander com parceria com a DIO
 
 - 📫 Para entrar em contato comigo: **anabeatriz.custodio.oliveira@gmail.com**
 
